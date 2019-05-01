@@ -1,0 +1,14 @@
+ mobile.pipe.aria.microsoft.com
+ *.storage.live.com
+*.blob.core.windows.net
+api.onedrive.com
+device.ra.live.com
+login.live.com
+mobile.pipe.aria.microsoft.com
+arc.msn.com
+*.device.ra.live.com
+skydrive.wns.windows.com
+onedrive.live.com
+*.sharepoint.com
+wns.windows.com
+config.teams.microsoft.com
